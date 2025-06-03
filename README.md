@@ -1,12 +1,37 @@
-# React + Vite
+# 🛍️ ShoppOne
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Tienda online desarrollada con **React + Tailwind** que permite visualizar productos, agregarlos al carrito y gestionarlos. Proyecto 100% frontend con datos desde una API externa y carrito persistente con `localStorage`.
 
-Currently, two official plugins are available:
+## 🔗 Demo online
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [Ver aplicación en Vercel](https://e-commerce-mini-indol.vercel.app/)
 
-## Expanding the ESLint configuration
+## ✨ Funcionalidades
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🛒 Visualización de productos desde Fake Store API
+- ✅ Agregar/quitar productos del carrito
+- 🧹 Vaciar el carrito completo
+- 🔔 Notificaciones visuales con SweetAlert2
+- 💾 Carrito persistente con `localStorage`
+- 📱 Diseño responsive con Tailwind CSS
+- 🔁 React Router DOM para navegación
+
+## 📸 Capturas
+
+https://github.com/user-attachments/assets/d58dfa92-c5eb-45f2-8628-41cf6e89ba78
+https://github.com/user-attachments/assets/719416d8-8cb4-44b1-8ac2-471274770d24
+
+
+
+## 🧱 Tecnologías
+
+- React + Vite
+- Tailwind CSS
+- SweetAlert2
+- React Router DOM
+- LocalStorage
+- Fake Store API
+
+## 🧑 Autor
+
+[Fraank-00](https://github.com/Fraank-00)
